@@ -1,5 +1,5 @@
 // ref: https://golang.org/src/plugin/
-package "plugin"
+package plugin
 
 import (
 	"fmt"
